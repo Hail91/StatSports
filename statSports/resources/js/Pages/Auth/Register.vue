@@ -353,7 +353,7 @@
 </template>
 
 <script>
-import MainButton from "@/Components/Button.vue";
+import MainButton from "@/Components/Buttons/Button.vue";
 import BreezeGuestLayout from "@/Layouts/Guest.vue";
 import BreezeInput from "@/Components/Input.vue";
 import BreezeLabel from "@/Components/Label.vue";

@@ -19133,10 +19133,10 @@ module.exports = {
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Button.vue?vue&type=script&lang=js":
-/*!************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Button.vue?vue&type=script&lang=js ***!
-  \************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Buttons/Button.vue?vue&type=script&lang=js":
+/*!********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Buttons/Button.vue?vue&type=script&lang=js ***!
+  \********************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19469,7 +19469,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Button.vue */ "./resources/js/Components/Button.vue");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Layouts/Guest.vue */ "./resources/js/Layouts/Guest.vue");
 /* harmony import */ var _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/Components/Input.vue */ "./resources/js/Components/Input.vue");
 /* harmony import */ var _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/Components/Label.vue */ "./resources/js/Components/Label.vue");
@@ -19484,7 +19484,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__.default,
   components: {
-    BreezeButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
+    BreezeButton: Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()),
     BreezeInput: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__.default,
     BreezeLabel: _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__.default,
     BreezeValidationErrors: _Components_ValidationErrors_vue__WEBPACK_IMPORTED_MODULE_4__.default,
@@ -19523,7 +19523,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Button.vue */ "./resources/js/Components/Button.vue");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Layouts/Guest.vue */ "./resources/js/Layouts/Guest.vue");
 /* harmony import */ var _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/Components/Input.vue */ "./resources/js/Components/Input.vue");
 /* harmony import */ var _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/Components/Label.vue */ "./resources/js/Components/Label.vue");
@@ -19538,7 +19538,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__.default,
   components: {
-    BreezeButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
+    BreezeButton: Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()),
     BreezeInput: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__.default,
     BreezeLabel: _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__.default,
     BreezeValidationErrors: _Components_ValidationErrors_vue__WEBPACK_IMPORTED_MODULE_4__.default,
@@ -19574,7 +19574,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Button.vue */ "./resources/js/Components/Button.vue");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var _Components_Checkbox_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Components/Checkbox.vue */ "./resources/js/Components/Checkbox.vue");
 /* harmony import */ var _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/Layouts/Guest.vue */ "./resources/js/Layouts/Guest.vue");
 /* harmony import */ var _Components_Input_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/Components/Input.vue */ "./resources/js/Components/Input.vue");
@@ -19591,7 +19591,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_2__.default,
   components: {
-    BreezeButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
+    BreezeButton: Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()),
     BreezeCheckbox: _Components_Checkbox_vue__WEBPACK_IMPORTED_MODULE_1__.default,
     BreezeInput: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_3__.default,
     BreezeLabel: _Components_Label_vue__WEBPACK_IMPORTED_MODULE_4__.default,
@@ -19638,7 +19638,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Button.vue */ "./resources/js/Components/Button.vue");
+/* harmony import */ var _Components_Buttons_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Buttons/Button.vue */ "./resources/js/Components/Buttons/Button.vue");
 /* harmony import */ var _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Layouts/Guest.vue */ "./resources/js/Layouts/Guest.vue");
 /* harmony import */ var _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/Components/Input.vue */ "./resources/js/Components/Input.vue");
 /* harmony import */ var _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/Components/Label.vue */ "./resources/js/Components/Label.vue");
@@ -19653,7 +19653,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__.default,
   components: {
-    MainButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
+    MainButton: _Components_Buttons_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
     BreezeInput: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__.default,
     BreezeLabel: _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__.default,
     BreezeValidationErrors: _Components_ValidationErrors_vue__WEBPACK_IMPORTED_MODULE_4__.default,
@@ -19697,7 +19697,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Button.vue */ "./resources/js/Components/Button.vue");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Layouts/Guest.vue */ "./resources/js/Layouts/Guest.vue");
 /* harmony import */ var _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/Components/Input.vue */ "./resources/js/Components/Input.vue");
 /* harmony import */ var _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/Components/Label.vue */ "./resources/js/Components/Label.vue");
@@ -19712,7 +19712,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__.default,
   components: {
-    BreezeButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
+    BreezeButton: Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()),
     BreezeInput: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__.default,
     BreezeLabel: _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__.default,
     BreezeValidationErrors: _Components_ValidationErrors_vue__WEBPACK_IMPORTED_MODULE_4__.default,
@@ -19758,7 +19758,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Button.vue */ "./resources/js/Components/Button.vue");
+Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 /* harmony import */ var _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Layouts/Guest.vue */ "./resources/js/Layouts/Guest.vue");
 /* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
 
@@ -19767,7 +19767,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__.default,
   components: {
-    BreezeButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
+    BreezeButton: Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()),
     Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_2__.Head,
     Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_2__.Link
   },
@@ -19876,10 +19876,10 @@ function render(_ctx, _cache) {
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Button.vue?vue&type=template&id=067f8786":
-/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Button.vue?vue&type=template&id=067f8786 ***!
-  \****************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Buttons/Button.vue?vue&type=template&id=6bd406aa":
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Buttons/Button.vue?vue&type=template&id=6bd406aa ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19893,7 +19893,7 @@ var _hoisted_1 = ["type"];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("button", {
     type: $props.type,
-    "class": "\n            inline-flex\n            items-center\n            px-4\n            py-2\n            border border-transparent\n            text-sm\n            font-medium\n            rounded-md\n            shadow-sm\n            text-white\n            bg-blue-800\n            hover:bg-blue-600\n            focus:outline-none\n            transition-all\n            ease-in-out\n        "
+    "class": "\r\n            inline-flex\r\n            items-center\r\n            px-4\r\n            py-2\r\n            border border-transparent\r\n            text-sm\r\n            font-medium\r\n            rounded-md\r\n            shadow-sm\r\n            text-white\r\n            bg-blue-800\r\n            hover:bg-blue-600\r\n            focus:outline-none\r\n            transition-all\r\n            ease-in-out\r\n        "
   }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "default")], 8
   /* PROPS */
   , _hoisted_1);
@@ -20785,7 +20785,7 @@ var _hoisted_1 = {
   "class": "min-h-screen bg-white flex"
 };
 var _hoisted_2 = {
-  "class": "\n                flex-1 flex flex-col\n                justify-center\n                py-12\n                px-4\n                sm:px-6\n                lg:flex-none lg:px-20\n                xl:px-24\n            "
+  "class": "\r\n                flex-1 flex flex-col\r\n                justify-center\r\n                py-12\r\n                px-4\r\n                sm:px-6\r\n                lg:flex-none lg:px-20\r\n                xl:px-24\r\n            "
 };
 var _hoisted_3 = {
   "class": "mx-auto w-full max-w-sm lg:w-96"
@@ -20815,7 +20815,7 @@ var _hoisted_9 = {
   "class": "mt-8"
 };
 
-var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><div><p class=\"text-sm font-medium text-gray-700\"> Sign in with </p><div class=\"mt-1 grid grid-cols-2 gap-2\"><div><a href=\"#\" class=\"\n                                            w-full\n                                            inline-flex\n                                            justify-center\n                                            py-2\n                                            px-4\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            bg-white\n                                            text-sm\n                                            font-medium\n                                            text-gray-500\n                                            hover:bg-gray-50\n                                        \"><span class=\"sr-only\">Sign in with Facebook</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M20 10c0-5.523-4.477-10-10-10S0 4.477 0 10c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V10h2.54V7.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V10h2.773l-.443 2.89h-2.33v6.988C16.343 19.128 20 14.991 20 10z\" clip-rule=\"evenodd\"></path></svg></a></div><div><a href=\"#\" class=\"\n                                            w-full\n                                            inline-flex\n                                            justify-center\n                                            py-2\n                                            px-4\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            bg-white\n                                            text-sm\n                                            font-medium\n                                            text-gray-500\n                                            hover:bg-gray-50\n                                        \"><span class=\"sr-only\">Sign in with Twitter</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path d=\"M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84\"></path></svg></a></div></div></div><div class=\"mt-6 relative\"><div class=\"absolute inset-0 flex items-center\" aria-hidden=\"true\"><div class=\"w-full border-t border-gray-300\"></div></div><div class=\"relative flex justify-center text-sm\"><span class=\"px-2 bg-white text-gray-500\"> Or continue with </span></div></div></div>", 1);
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><div><p class=\"text-sm font-medium text-gray-700\"> Sign in with </p><div class=\"mt-1 grid grid-cols-2 gap-2\"><div><a href=\"#\" class=\"\r\n                                            w-full\r\n                                            inline-flex\r\n                                            justify-center\r\n                                            py-2\r\n                                            px-4\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            bg-white\r\n                                            text-sm\r\n                                            font-medium\r\n                                            text-gray-500\r\n                                            hover:bg-gray-50\r\n                                        \"><span class=\"sr-only\">Sign in with Facebook</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M20 10c0-5.523-4.477-10-10-10S0 4.477 0 10c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V10h2.54V7.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V10h2.773l-.443 2.89h-2.33v6.988C16.343 19.128 20 14.991 20 10z\" clip-rule=\"evenodd\"></path></svg></a></div><div><a href=\"#\" class=\"\r\n                                            w-full\r\n                                            inline-flex\r\n                                            justify-center\r\n                                            py-2\r\n                                            px-4\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            bg-white\r\n                                            text-sm\r\n                                            font-medium\r\n                                            text-gray-500\r\n                                            hover:bg-gray-50\r\n                                        \"><span class=\"sr-only\">Sign in with Twitter</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path d=\"M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84\"></path></svg></a></div></div></div><div class=\"mt-6 relative\"><div class=\"absolute inset-0 flex items-center\" aria-hidden=\"true\"><div class=\"w-full border-t border-gray-300\"></div></div><div class=\"relative flex justify-center text-sm\"><span class=\"px-2 bg-white text-gray-500\"> Or continue with </span></div></div></div>", 1);
 
 var _hoisted_11 = {
   "class": "mt-6"
@@ -20823,7 +20823,7 @@ var _hoisted_11 = {
 
 var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "name",
-  "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
+  "class": "\r\n                                        block\r\n                                        text-sm\r\n                                        font-medium\r\n                                        text-gray-700\r\n                                    "
 }, " Name ", -1
 /* HOISTED */
 );
@@ -20834,7 +20834,7 @@ var _hoisted_13 = {
 
 var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "email",
-  "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
+  "class": "\r\n                                        block\r\n                                        text-sm\r\n                                        font-medium\r\n                                        text-gray-700\r\n                                    "
 }, " Email address ", -1
 /* HOISTED */
 );
@@ -20848,7 +20848,7 @@ var _hoisted_16 = {
 
 var _hoisted_17 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "password",
-  "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
+  "class": "\r\n                                        block\r\n                                        text-sm\r\n                                        font-medium\r\n                                        text-gray-700\r\n                                    "
 }, " Password ", -1
 /* HOISTED */
 );
@@ -20862,7 +20862,7 @@ var _hoisted_19 = {
 
 var _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "password_confirmation",
-  "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
+  "class": "\r\n                                        block\r\n                                        text-sm\r\n                                        font-medium\r\n                                        text-gray-700\r\n                                    "
 }, " Confirm Password ", -1
 /* HOISTED */
 );
@@ -20871,7 +20871,7 @@ var _hoisted_21 = {
   "class": "mt-1"
 };
 
-var _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-between\"><div class=\"flex items-center\"><input id=\"remember-me\" name=\"remember-me\" type=\"checkbox\" class=\"\n                                            h-4\n                                            w-4\n                                            text-blue-800\n                                            border-gray-300\n                                            rounded\n                                            cursor-pointer\n                                        \"><label for=\"remember-me\" class=\"ml-2 block text-sm text-gray-900\"> Remember me </label></div><div class=\"text-sm\"><a href=\"#\" class=\"\n                                            font-bold\n                                            text-blue-800\n                                            hover:text-blue-600\n                                            transition-all\n                                            ease-in-out\n                                        \"> Forgot your password? </a></div></div>", 1);
+var _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-between\"><div class=\"flex items-center\"><input id=\"remember-me\" name=\"remember-me\" type=\"checkbox\" class=\"\r\n                                            h-4\r\n                                            w-4\r\n                                            text-blue-800\r\n                                            border-gray-300\r\n                                            rounded\r\n                                            cursor-pointer\r\n                                        \"><label for=\"remember-me\" class=\"ml-2 block text-sm text-gray-900\"> Remember me </label></div><div class=\"text-sm\"><a href=\"#\" class=\"\r\n                                            font-bold\r\n                                            text-blue-800\r\n                                            hover:text-blue-600\r\n                                            transition-all\r\n                                            ease-in-out\r\n                                        \"> Forgot your password? </a></div></div>", 1);
 
 var _hoisted_23 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Create Account ");
 
@@ -20900,7 +20900,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     "class": "mb-4"
   }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [_hoisted_4, _hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", _hoisted_6, [_hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
     href: _ctx.route('login'),
-    "class": "\n                                font-bold\n                                text-blue-800\n                                hover:text-blue-600\n                                transition-all\n                                ease-in-out\n                            "
+    "class": "\r\n                                font-bold\r\n                                text-blue-800\r\n                                hover:text-blue-600\r\n                                transition-all\r\n                                ease-in-out\r\n                            "
   }, {
     "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
       return [_hoisted_8];
@@ -20925,7 +20925,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     "onUpdate:modelValue": _cache[0] || (_cache[0] = function ($event) {
       return $data.form.name = $event;
     }),
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:border-blue-800\n                                            sm:text-sm\n                                        "
+    "class": "\r\n                                            appearance-none\r\n                                            block\r\n                                            w-full\r\n                                            px-3\r\n                                            py-2\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            placeholder-gray-400\r\n                                            focus:outline-none\r\n                                            focus:border-blue-800\r\n                                            sm:text-sm\r\n                                        "
   }, null, 512
   /* NEED_PATCH */
   ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.name]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [_hoisted_14, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
@@ -20937,7 +20937,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return $data.form.email = $event;
     }),
     required: "",
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:border-blue-800\n                                            sm:text-sm\n                                        "
+    "class": "\r\n                                            appearance-none\r\n                                            block\r\n                                            w-full\r\n                                            px-3\r\n                                            py-2\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            placeholder-gray-400\r\n                                            focus:outline-none\r\n                                            focus:border-blue-800\r\n                                            sm:text-sm\r\n                                        "
   }, null, 512
   /* NEED_PATCH */
   ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.email]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_16, [_hoisted_17, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
@@ -20949,7 +20949,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return $data.form.password = $event;
     }),
     required: "",
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:border-blue-500\n                                            sm:text-sm\n                                        "
+    "class": "\r\n                                            appearance-none\r\n                                            block\r\n                                            w-full\r\n                                            px-3\r\n                                            py-2\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            placeholder-gray-400\r\n                                            focus:border-blue-500\r\n                                            sm:text-sm\r\n                                        "
   }, null, 512
   /* NEED_PATCH */
   ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [_hoisted_20, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_21, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
@@ -20961,7 +20961,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return $data.form.password_confirmation = $event;
     }),
     required: "",
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:border-blue-800\n                                            sm:text-sm\n                                        "
+    "class": "\r\n                                            appearance-none\r\n                                            block\r\n                                            w-full\r\n                                            px-3\r\n                                            py-2\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            placeholder-gray-400\r\n                                            focus:outline-none\r\n                                            focus:border-blue-800\r\n                                            sm:text-sm\r\n                                        "
   }, null, 512
   /* NEED_PATCH */
   ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password_confirmation]])])]), _hoisted_22, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_MainButton, {
@@ -45639,10 +45639,10 @@ script.__file = "resources/js/Components/ApplicationLogo.vue"
 
 /***/ }),
 
-/***/ "./resources/js/Components/Button.vue":
-/*!********************************************!*\
-  !*** ./resources/js/Components/Button.vue ***!
-  \********************************************/
+/***/ "./resources/js/Components/Buttons/Button.vue":
+/*!****************************************************!*\
+  !*** ./resources/js/Components/Buttons/Button.vue ***!
+  \****************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -45650,16 +45650,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Button_vue_vue_type_template_id_067f8786__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Button.vue?vue&type=template&id=067f8786 */ "./resources/js/Components/Button.vue?vue&type=template&id=067f8786");
-/* harmony import */ var _Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Button.vue?vue&type=script&lang=js */ "./resources/js/Components/Button.vue?vue&type=script&lang=js");
+/* harmony import */ var _Button_vue_vue_type_template_id_6bd406aa__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Button.vue?vue&type=template&id=6bd406aa */ "./resources/js/Components/Buttons/Button.vue?vue&type=template&id=6bd406aa");
+/* harmony import */ var _Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Button.vue?vue&type=script&lang=js */ "./resources/js/Components/Buttons/Button.vue?vue&type=script&lang=js");
 
 
 
-_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.render = _Button_vue_vue_type_template_id_067f8786__WEBPACK_IMPORTED_MODULE_0__.render
+_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.render = _Button_vue_vue_type_template_id_6bd406aa__WEBPACK_IMPORTED_MODULE_0__.render
 /* hot reload */
 if (false) {}
 
-_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.__file = "resources/js/Components/Button.vue"
+_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.__file = "resources/js/Components/Buttons/Button.vue"
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default);
 
@@ -46137,10 +46137,10 @@ _Welcome_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.__file
 
 /***/ }),
 
-/***/ "./resources/js/Components/Button.vue?vue&type=script&lang=js":
-/*!********************************************************************!*\
-  !*** ./resources/js/Components/Button.vue?vue&type=script&lang=js ***!
-  \********************************************************************/
+/***/ "./resources/js/Components/Buttons/Button.vue?vue&type=script&lang=js":
+/*!****************************************************************************!*\
+  !*** ./resources/js/Components/Buttons/Button.vue?vue&type=script&lang=js ***!
+  \****************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -46148,7 +46148,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__.default)
 /* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Button.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Button.vue?vue&type=script&lang=js");
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Button_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Button.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Buttons/Button.vue?vue&type=script&lang=js");
  
 
 /***/ }),
@@ -46457,18 +46457,18 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/Components/Button.vue?vue&type=template&id=067f8786":
-/*!**************************************************************************!*\
-  !*** ./resources/js/Components/Button.vue?vue&type=template&id=067f8786 ***!
-  \**************************************************************************/
+/***/ "./resources/js/Components/Buttons/Button.vue?vue&type=template&id=6bd406aa":
+/*!**********************************************************************************!*\
+  !*** ./resources/js/Components/Buttons/Button.vue?vue&type=template&id=6bd406aa ***!
+  \**********************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Button_vue_vue_type_template_id_067f8786__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Button_vue_vue_type_template_id_6bd406aa__WEBPACK_IMPORTED_MODULE_0__.render)
 /* harmony export */ });
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Button_vue_vue_type_template_id_067f8786__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Button.vue?vue&type=template&id=067f8786 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Button.vue?vue&type=template&id=067f8786");
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Button_vue_vue_type_template_id_6bd406aa__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Button.vue?vue&type=template&id=6bd406aa */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Buttons/Button.vue?vue&type=template&id=6bd406aa");
 
 
 /***/ }),
