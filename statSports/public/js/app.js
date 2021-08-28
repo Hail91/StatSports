@@ -19148,7 +19148,7 @@ __webpack_require__.r(__webpack_exports__);
   props: {
     type: {
       type: String,
-      "default": 'submit'
+      "default": "submit"
     }
   }
 });
@@ -19448,14 +19448,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Components_ApplicationLogo_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/ApplicationLogo.vue */ "./resources/js/Components/ApplicationLogo.vue");
-/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
-
+/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   components: {
-    BreezeApplicationLogo: _Components_ApplicationLogo_vue__WEBPACK_IMPORTED_MODULE_0__.default,
-    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_1__.Link
+    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Link
   }
 });
 
@@ -19656,7 +19653,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_1__.default,
   components: {
-    BreezeButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
+    MainButton: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
     BreezeInput: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_2__.default,
     BreezeLabel: _Components_Label_vue__WEBPACK_IMPORTED_MODULE_3__.default,
     BreezeValidationErrors: _Components_ValidationErrors_vue__WEBPACK_IMPORTED_MODULE_4__.default,
@@ -19896,7 +19893,7 @@ var _hoisted_1 = ["type"];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("button", {
     type: $props.type,
-    "class": "inline-flex items-center px-4 py-2 bg-gray-800 border border-transparent rounded-md font-semibold text-xs text-white uppercase tracking-widest hover:bg-gray-700 active:bg-gray-900 focus:outline-none focus:border-gray-900 focus:shadow-outline-gray transition ease-in-out duration-150"
+    "class": "\n            inline-flex\n            items-center\n            px-4\n            py-2\n            border border-transparent\n            text-sm\n            font-medium\n            rounded-md\n            shadow-sm\n            text-white\n            bg-blue-800\n            hover:bg-blue-600\n            focus:outline-none\n            transition-all\n            ease-in-out\n        "
   }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "default")], 8
   /* PROPS */
   , _hoisted_1);
@@ -20781,6 +20778,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "render": () => (/* binding */ render)
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+/* harmony import */ var _assets_stadium_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../assets/stadium.jpg */ "./resources/assets/stadium.jpg");
+
 
 var _hoisted_1 = {
   "class": "min-h-screen bg-white flex"
@@ -20872,15 +20871,15 @@ var _hoisted_21 = {
   "class": "mt-1"
 };
 
-var _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-between\"><div class=\"flex items-center\"><input id=\"remember-me\" name=\"remember-me\" type=\"checkbox\" class=\"\n                                            h-4\n                                            w-4\n                                            text-indigo-600\n                                            border-gray-300\n                                            rounded\n                                        \"><label for=\"remember-me\" class=\"ml-2 block text-sm text-gray-900\"> Remember me </label></div><div class=\"text-sm\"><a href=\"#\" class=\"\n                                            font-bold\n                                            text-blue-800\n                                            hover:text-blue-600\n                                            transition-all\n                                            ease-in-out\n                                        \"> Forgot your password? </a></div></div>", 1);
+var _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-between\"><div class=\"flex items-center\"><input id=\"remember-me\" name=\"remember-me\" type=\"checkbox\" class=\"\n                                            h-4\n                                            w-4\n                                            text-blue-800\n                                            border-gray-300\n                                            rounded\n                                            cursor-pointer\n                                        \"><label for=\"remember-me\" class=\"ml-2 block text-sm text-gray-900\"> Remember me </label></div><div class=\"text-sm\"><a href=\"#\" class=\"\n                                            font-bold\n                                            text-blue-800\n                                            hover:text-blue-600\n                                            transition-all\n                                            ease-in-out\n                                        \"> Forgot your password? </a></div></div>", 1);
 
-var _hoisted_23 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Register ");
+var _hoisted_23 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Create Account ");
 
 var _hoisted_24 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "hidden lg:block relative w-0 flex-1"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "absolute inset-0 h-full w-full object-cover",
-  src: "https://images.unsplash.com/photo-1505904267569-f02eaeb45a4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1908&q=80",
+  src: _assets_stadium_jpg__WEBPACK_IMPORTED_MODULE_1__.default,
   alt: ""
 })], -1
 /* HOISTED */
@@ -20893,7 +20892,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
 
   var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
 
-  var _component_BreezeButton = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BreezeButton");
+  var _component_MainButton = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("MainButton");
 
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
     title: "Register"
@@ -20965,7 +20964,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:border-blue-800\n                                            sm:text-sm\n                                        "
   }, null, 512
   /* NEED_PATCH */
-  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password_confirmation]])])]), _hoisted_22, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BreezeButton, {
+  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password_confirmation]])])]), _hoisted_22, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_MainButton, {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)(["ml-4", {
       'opacity-25': $data.form.processing
     }]),
@@ -21747,6 +21746,21 @@ var deepmerge_1 = deepmerge;
 
 module.exports = deepmerge_1;
 
+
+/***/ }),
+
+/***/ "./resources/assets/stadium.jpg":
+/*!**************************************!*\
+  !*** ./resources/assets/stadium.jpg ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/stadium.jpg?2f767bdea9aca6304389ebec4d4444b1");
 
 /***/ }),
 

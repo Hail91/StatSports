@@ -298,9 +298,10 @@
                                         class="
                                             h-4
                                             w-4
-                                            text-indigo-600
+                                            text-blue-800
                                             border-gray-300
                                             rounded
+                                            cursor-pointer
                                         "
                                     />
                                     <label
@@ -328,13 +329,13 @@
                             </div>
 
                             <div>
-                                <BreezeButton
+                                <MainButton
                                     class="ml-4"
                                     :class="{ 'opacity-25': form.processing }"
                                     :disabled="form.processing"
                                 >
-                                    Register
-                                </BreezeButton>
+                                    Create Account
+                                </MainButton>
                             </div>
                         </form>
                     </div>
@@ -344,7 +345,7 @@
         <div class="hidden lg:block relative w-0 flex-1">
             <img
                 class="absolute inset-0 h-full w-full object-cover"
-                src="https://images.unsplash.com/photo-1505904267569-f02eaeb45a4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1908&q=80"
+                src="../../../assets/stadium.jpg"
                 alt=""
             />
         </div>
@@ -352,7 +353,7 @@
 </template>
 
 <script>
-import BreezeButton from "@/Components/Button.vue";
+import MainButton from "@/Components/Button.vue";
 import BreezeGuestLayout from "@/Layouts/Guest.vue";
 import BreezeInput from "@/Components/Input.vue";
 import BreezeLabel from "@/Components/Label.vue";
@@ -363,7 +364,7 @@ export default {
     layout: BreezeGuestLayout,
 
     components: {
-        BreezeButton,
+        MainButton,
         BreezeInput,
         BreezeLabel,
         BreezeValidationErrors,
