@@ -20792,86 +20792,91 @@ var _hoisted_3 = {
   "class": "mx-auto w-full max-w-sm lg:w-96"
 };
 
-var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  "class": "h-12 w-auto",
-  src: "https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg",
-  alt: "Workflow"
-}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", {
-  "class": "mt-6 text-3xl font-extrabold text-gray-900"
-}, " Sign in to your account "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-  "class": "mt-2 text-sm text-gray-600"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Or " + /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(" ") + " "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "#",
-  "class": "\n                                font-medium\n                                text-indigo-600\n                                hover:text-indigo-500\n                            "
-}, " start your 14-day free trial ")])], -1
+var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
+  "class": "text-3xl font-extrabold text-blue-800"
+}, " StatSports ", -1
 /* HOISTED */
 );
 
-var _hoisted_5 = {
+var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", {
+  "class": "mt-6 text-2xl font-extrabold text-blue-800"
+}, " Create an account ", -1
+/* HOISTED */
+);
+
+var _hoisted_6 = {
+  "class": "mt-2 text-sm text-gray-600"
+};
+
+var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Or if you already have one " + /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(" ") + " ");
+
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" register here ");
+
+var _hoisted_9 = {
   "class": "mt-8"
 };
 
-var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><div><p class=\"text-sm font-medium text-gray-700\"> Sign in with </p><div class=\"mt-1 grid grid-cols-3 gap-3\"><div><a href=\"#\" class=\"\n                                            w-full\n                                            inline-flex\n                                            justify-center\n                                            py-2\n                                            px-4\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            bg-white\n                                            text-sm\n                                            font-medium\n                                            text-gray-500\n                                            hover:bg-gray-50\n                                        \"><span class=\"sr-only\">Sign in with Facebook</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M20 10c0-5.523-4.477-10-10-10S0 4.477 0 10c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V10h2.54V7.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V10h2.773l-.443 2.89h-2.33v6.988C16.343 19.128 20 14.991 20 10z\" clip-rule=\"evenodd\"></path></svg></a></div><div><a href=\"#\" class=\"\n                                            w-full\n                                            inline-flex\n                                            justify-center\n                                            py-2\n                                            px-4\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            bg-white\n                                            text-sm\n                                            font-medium\n                                            text-gray-500\n                                            hover:bg-gray-50\n                                        \"><span class=\"sr-only\">Sign in with Twitter</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path d=\"M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84\"></path></svg></a></div><div><a href=\"#\" class=\"\n                                            w-full\n                                            inline-flex\n                                            justify-center\n                                            py-2\n                                            px-4\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            bg-white\n                                            text-sm\n                                            font-medium\n                                            text-gray-500\n                                            hover:bg-gray-50\n                                        \"><span class=\"sr-only\">Sign in with GitHub</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M10 0C4.477 0 0 4.484 0 10.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0110 4.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0020 10.017C20 4.484 15.522 0 10 0z\" clip-rule=\"evenodd\"></path></svg></a></div></div></div><div class=\"mt-6 relative\"><div class=\"absolute inset-0 flex items-center\" aria-hidden=\"true\"><div class=\"w-full border-t border-gray-300\"></div></div><div class=\"relative flex justify-center text-sm\"><span class=\"px-2 bg-white text-gray-500\"> Or continue with </span></div></div></div>", 1);
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><div><p class=\"text-sm font-medium text-gray-700\"> Sign in with </p><div class=\"mt-1 grid grid-cols-2 gap-2\"><div><a href=\"#\" class=\"\n                                            w-full\n                                            inline-flex\n                                            justify-center\n                                            py-2\n                                            px-4\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            bg-white\n                                            text-sm\n                                            font-medium\n                                            text-gray-500\n                                            hover:bg-gray-50\n                                        \"><span class=\"sr-only\">Sign in with Facebook</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M20 10c0-5.523-4.477-10-10-10S0 4.477 0 10c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V10h2.54V7.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V10h2.773l-.443 2.89h-2.33v6.988C16.343 19.128 20 14.991 20 10z\" clip-rule=\"evenodd\"></path></svg></a></div><div><a href=\"#\" class=\"\n                                            w-full\n                                            inline-flex\n                                            justify-center\n                                            py-2\n                                            px-4\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            bg-white\n                                            text-sm\n                                            font-medium\n                                            text-gray-500\n                                            hover:bg-gray-50\n                                        \"><span class=\"sr-only\">Sign in with Twitter</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path d=\"M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84\"></path></svg></a></div></div></div><div class=\"mt-6 relative\"><div class=\"absolute inset-0 flex items-center\" aria-hidden=\"true\"><div class=\"w-full border-t border-gray-300\"></div></div><div class=\"relative flex justify-center text-sm\"><span class=\"px-2 bg-white text-gray-500\"> Or continue with </span></div></div></div>", 1);
 
-var _hoisted_7 = {
+var _hoisted_11 = {
   "class": "mt-6"
 };
 
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
+var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "name",
   "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
 }, " Name ", -1
 /* HOISTED */
 );
 
-var _hoisted_9 = {
+var _hoisted_13 = {
   "class": "mt-1"
 };
 
-var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
+var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "email",
   "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
 }, " Email address ", -1
 /* HOISTED */
 );
 
-var _hoisted_11 = {
+var _hoisted_15 = {
   "class": "mt-1"
 };
-var _hoisted_12 = {
+var _hoisted_16 = {
   "class": "space-y-1"
 };
 
-var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
+var _hoisted_17 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "password",
   "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
 }, " Password ", -1
 /* HOISTED */
 );
 
-var _hoisted_14 = {
+var _hoisted_18 = {
   "class": "mt-1"
 };
-var _hoisted_15 = {
+var _hoisted_19 = {
   "class": "space-y-1"
 };
 
-var _hoisted_16 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
+var _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", {
   "for": "password_confirmation",
   "class": "\n                                        block\n                                        text-sm\n                                        font-medium\n                                        text-gray-700\n                                    "
 }, " Confirm Password ", -1
 /* HOISTED */
 );
 
-var _hoisted_17 = {
+var _hoisted_21 = {
   "class": "mt-1"
 };
 
-var _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-between\"><div class=\"flex items-center\"><input id=\"remember-me\" name=\"remember-me\" type=\"checkbox\" class=\"\n                                            h-4\n                                            w-4\n                                            text-indigo-600\n                                            focus:ring-indigo-500\n                                            border-gray-300\n                                            rounded\n                                        \"><label for=\"remember-me\" class=\"ml-2 block text-sm text-gray-900\"> Remember me </label></div><div class=\"text-sm\"><a href=\"#\" class=\"\n                                            font-medium\n                                            text-indigo-600\n                                            hover:text-indigo-500\n                                        \"> Forgot your password? </a></div></div>", 1);
+var _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-between\"><div class=\"flex items-center\"><input id=\"remember-me\" name=\"remember-me\" type=\"checkbox\" class=\"\n                                            h-4\n                                            w-4\n                                            text-indigo-600\n                                            border-gray-300\n                                            rounded\n                                        \"><label for=\"remember-me\" class=\"ml-2 block text-sm text-gray-900\"> Remember me </label></div><div class=\"text-sm\"><a href=\"#\" class=\"\n                                            font-bold\n                                            text-blue-800\n                                            hover:text-blue-600\n                                            transition-all\n                                            ease-in-out\n                                        \"> Forgot your password? </a></div></div>", 1);
 
-var _hoisted_19 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Register ");
+var _hoisted_23 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Register ");
 
-var _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+var _hoisted_24 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "hidden lg:block relative w-0 flex-1"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "absolute inset-0 h-full w-full object-cover",
@@ -20886,18 +20891,32 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
 
   var _component_BreezeValidationErrors = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BreezeValidationErrors");
 
+  var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
+
   var _component_BreezeButton = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BreezeButton");
 
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
     title: "Register"
   }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BreezeValidationErrors, {
     "class": "mb-4"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [_hoisted_4, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [_hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [_hoisted_4, _hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", _hoisted_6, [_hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    href: _ctx.route('login'),
+    "class": "\n                                font-bold\n                                text-blue-800\n                                hover:text-blue-600\n                                transition-all\n                                ease-in-out\n                            "
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_8];
+    }),
+    _: 1
+    /* STABLE */
+
+  }, 8
+  /* PROPS */
+  , ["href"])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [_hoisted_10, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
     onSubmit: _cache[4] || (_cache[4] = (0,vue__WEBPACK_IMPORTED_MODULE_0__.withModifiers)(function () {
       return $options.submit && $options.submit.apply($options, arguments);
     }, ["prevent"])),
     "class": "space-y-6"
-  }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [_hoisted_8, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [_hoisted_12, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
     id: "name",
     name: "name",
     type: "text",
@@ -20907,10 +20926,10 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     "onUpdate:modelValue": _cache[0] || (_cache[0] = function ($event) {
       return $data.form.name = $event;
     }),
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:ring-indigo-500\n                                            focus:border-indigo-500\n                                            sm:text-sm\n                                        "
+    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:border-blue-800\n                                            sm:text-sm\n                                        "
   }, null, 512
   /* NEED_PATCH */
-  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.name]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [_hoisted_10, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.name]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [_hoisted_14, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
     id: "email",
     name: "email",
     type: "email",
@@ -20919,10 +20938,10 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return $data.form.email = $event;
     }),
     required: "",
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:ring-indigo-500\n                                            focus:border-indigo-500\n                                            sm:text-sm\n                                        "
+    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:border-blue-800\n                                            sm:text-sm\n                                        "
   }, null, 512
   /* NEED_PATCH */
-  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.email]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [_hoisted_13, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.email]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_16, [_hoisted_17, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
     id: "password",
     name: "password",
     type: "password",
@@ -20931,10 +20950,10 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return $data.form.password = $event;
     }),
     required: "",
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:ring-indigo-500\n                                            focus:border-indigo-500\n                                            sm:text-sm\n                                        "
+    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:border-blue-500\n                                            sm:text-sm\n                                        "
   }, null, 512
   /* NEED_PATCH */
-  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [_hoisted_16, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_17, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password]])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [_hoisted_20, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_21, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
     id: "password_confirmation",
     name: "password_confirmation",
     type: "password",
@@ -20943,17 +20962,17 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return $data.form.password_confirmation = $event;
     }),
     required: "",
-    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:ring-indigo-500\n                                            focus:border-indigo-500\n                                            sm:text-sm\n                                        "
+    "class": "\n                                            appearance-none\n                                            block\n                                            w-full\n                                            px-3\n                                            py-2\n                                            border border-gray-300\n                                            rounded-md\n                                            shadow-sm\n                                            placeholder-gray-400\n                                            focus:outline-none\n                                            focus:border-blue-800\n                                            sm:text-sm\n                                        "
   }, null, 512
   /* NEED_PATCH */
-  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password_confirmation]])])]), _hoisted_18, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BreezeButton, {
+  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password_confirmation]])])]), _hoisted_22, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BreezeButton, {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)(["ml-4", {
       'opacity-25': $data.form.processing
     }]),
     disabled: $data.form.processing
   }, {
     "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
-      return [_hoisted_19];
+      return [_hoisted_23];
     }),
     _: 1
     /* STABLE */
@@ -20962,7 +20981,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
   /* PROPS */
   , ["class", "disabled"])])], 32
   /* HYDRATE_EVENTS */
-  )])])])]), _hoisted_20])], 64
+  )])])])]), _hoisted_24])], 64
   /* STABLE_FRAGMENT */
   );
 }
