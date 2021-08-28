@@ -34,7 +34,7 @@
                                 ease-in-out
                             "
                         >
-                            register here
+                            Log in here
                         </Link>
                     </p>
                 </div>
@@ -43,7 +43,7 @@
                     <div>
                         <div>
                             <p class="text-sm font-medium text-gray-700">
-                                Sign in with
+                                Register with
                             </p>
 
                             <div class="mt-1 grid grid-cols-2 gap-2">
@@ -64,13 +64,21 @@
                                             font-medium
                                             text-gray-500
                                             hover:bg-gray-50
+                                            transition-all
+                                            ease-in-out
                                         "
                                     >
                                         <span class="sr-only"
                                             >Sign in with Facebook</span
                                         >
                                         <svg
-                                            class="w-5 h-5"
+                                            class="
+                                                w-5
+                                                h-5
+                                                hover:fill-fb-main
+                                                transition-all
+                                                ease-in-out
+                                            "
                                             aria-hidden="true"
                                             fill="currentColor"
                                             viewBox="0 0 20 20"
@@ -101,13 +109,21 @@
                                             font-medium
                                             text-gray-500
                                             hover:bg-gray-50
+                                            transition-all
+                                            ease-in-out
                                         "
                                     >
                                         <span class="sr-only"
                                             >Sign in with Twitter</span
                                         >
                                         <svg
-                                            class="w-5 h-5"
+                                            class="
+                                                w-5
+                                                h-5
+                                                hover:fill-tw-main
+                                                transition-all
+                                                ease-in-out
+                                            "
                                             aria-hidden="true"
                                             fill="currentColor"
                                             viewBox="0 0 20 20"

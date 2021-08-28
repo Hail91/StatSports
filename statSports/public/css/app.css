@@ -21360,8 +21360,28 @@ select {
   background-origin: content-box;
 }
 
-.fill-current {
-  fill: currentColor;
+.fill-fb-main {
+  fill: #4267B2;
+}
+
+.fill-tw-main {
+  fill: #1DA1F2;
+}
+
+.hover\:fill-fb-main:hover {
+  fill: #4267B2;
+}
+
+.hover\:fill-tw-main:hover {
+  fill: #1DA1F2;
+}
+
+.focus\:fill-fb-main:focus {
+  fill: #4267B2;
+}
+
+.focus\:fill-tw-main:focus {
+  fill: #1DA1F2;
 }
 
 .stroke-current {
@@ -52659,8 +52679,28 @@ select {
     background-origin: content-box;
   }
 
-  .sm\:fill-current {
-    fill: currentColor;
+  .sm\:fill-fb-main {
+    fill: #4267B2;
+  }
+
+  .sm\:fill-tw-main {
+    fill: #1DA1F2;
+  }
+
+  .sm\:hover\:fill-fb-main:hover {
+    fill: #4267B2;
+  }
+
+  .sm\:hover\:fill-tw-main:hover {
+    fill: #1DA1F2;
+  }
+
+  .sm\:focus\:fill-fb-main:focus {
+    fill: #4267B2;
+  }
+
+  .sm\:focus\:fill-tw-main:focus {
+    fill: #1DA1F2;
   }
 
   .sm\:stroke-current {
@@ -83946,8 +83986,28 @@ select {
     background-origin: content-box;
   }
 
-  .md\:fill-current {
-    fill: currentColor;
+  .md\:fill-fb-main {
+    fill: #4267B2;
+  }
+
+  .md\:fill-tw-main {
+    fill: #1DA1F2;
+  }
+
+  .md\:hover\:fill-fb-main:hover {
+    fill: #4267B2;
+  }
+
+  .md\:hover\:fill-tw-main:hover {
+    fill: #1DA1F2;
+  }
+
+  .md\:focus\:fill-fb-main:focus {
+    fill: #4267B2;
+  }
+
+  .md\:focus\:fill-tw-main:focus {
+    fill: #1DA1F2;
   }
 
   .md\:stroke-current {
@@ -115233,8 +115293,28 @@ select {
     background-origin: content-box;
   }
 
-  .lg\:fill-current {
-    fill: currentColor;
+  .lg\:fill-fb-main {
+    fill: #4267B2;
+  }
+
+  .lg\:fill-tw-main {
+    fill: #1DA1F2;
+  }
+
+  .lg\:hover\:fill-fb-main:hover {
+    fill: #4267B2;
+  }
+
+  .lg\:hover\:fill-tw-main:hover {
+    fill: #1DA1F2;
+  }
+
+  .lg\:focus\:fill-fb-main:focus {
+    fill: #4267B2;
+  }
+
+  .lg\:focus\:fill-tw-main:focus {
+    fill: #1DA1F2;
   }
 
   .lg\:stroke-current {
@@ -146520,8 +146600,28 @@ select {
     background-origin: content-box;
   }
 
-  .xl\:fill-current {
-    fill: currentColor;
+  .xl\:fill-fb-main {
+    fill: #4267B2;
+  }
+
+  .xl\:fill-tw-main {
+    fill: #1DA1F2;
+  }
+
+  .xl\:hover\:fill-fb-main:hover {
+    fill: #4267B2;
+  }
+
+  .xl\:hover\:fill-tw-main:hover {
+    fill: #1DA1F2;
+  }
+
+  .xl\:focus\:fill-fb-main:focus {
+    fill: #4267B2;
+  }
+
+  .xl\:focus\:fill-tw-main:focus {
+    fill: #1DA1F2;
   }
 
   .xl\:stroke-current {
@@ -177807,8 +177907,28 @@ select {
     background-origin: content-box;
   }
 
-  .\32xl\:fill-current {
-    fill: currentColor;
+  .\32xl\:fill-fb-main {
+    fill: #4267B2;
+  }
+
+  .\32xl\:fill-tw-main {
+    fill: #1DA1F2;
+  }
+
+  .\32xl\:hover\:fill-fb-main:hover {
+    fill: #4267B2;
+  }
+
+  .\32xl\:hover\:fill-tw-main:hover {
+    fill: #1DA1F2;
+  }
+
+  .\32xl\:focus\:fill-fb-main:focus {
+    fill: #4267B2;
+  }
+
+  .\32xl\:focus\:fill-tw-main:focus {
+    fill: #1DA1F2;
   }
 
   .\32xl\:stroke-current {

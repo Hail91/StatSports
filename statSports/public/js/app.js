@@ -19574,7 +19574,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
+/* harmony import */ var _Components_Buttons_Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Components/Buttons/Button.vue */ "./resources/js/Components/Buttons/Button.vue");
 /* harmony import */ var _Components_Checkbox_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Components/Checkbox.vue */ "./resources/js/Components/Checkbox.vue");
 /* harmony import */ var _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/Layouts/Guest.vue */ "./resources/js/Layouts/Guest.vue");
 /* harmony import */ var _Components_Input_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/Components/Input.vue */ "./resources/js/Components/Input.vue");
@@ -19591,7 +19591,7 @@ Object(function webpackMissingModule() { var e = new Error("Cannot find module '
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   layout: _Layouts_Guest_vue__WEBPACK_IMPORTED_MODULE_2__.default,
   components: {
-    BreezeButton: Object(function webpackMissingModule() { var e = new Error("Cannot find module '@/Components/Button.vue'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()),
+    BreezeButton: _Components_Buttons_Button_vue__WEBPACK_IMPORTED_MODULE_0__.default,
     BreezeCheckbox: _Components_Checkbox_vue__WEBPACK_IMPORTED_MODULE_1__.default,
     BreezeInput: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_3__.default,
     BreezeLabel: _Components_Label_vue__WEBPACK_IMPORTED_MODULE_4__.default,
@@ -19606,8 +19606,8 @@ Object(function webpackMissingModule() { var e = new Error("Cannot find module '
   data: function data() {
     return {
       form: this.$inertia.form({
-        email: '',
-        password: '',
+        email: "",
+        password: "",
         remember: false
       })
     };
@@ -19616,9 +19616,9 @@ Object(function webpackMissingModule() { var e = new Error("Cannot find module '
     submit: function submit() {
       var _this = this;
 
-      this.form.post(this.route('login'), {
+      this.form.post(this.route("login"), {
         onFinish: function onFinish() {
-          return _this.form.reset('password');
+          return _this.form.reset("password");
         }
       });
     }
@@ -20809,13 +20809,13 @@ var _hoisted_6 = {
 
 var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Or if you already have one " + /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(" ") + " ");
 
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" register here ");
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Log in here ");
 
 var _hoisted_9 = {
   "class": "mt-8"
 };
 
-var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><div><p class=\"text-sm font-medium text-gray-700\"> Sign in with </p><div class=\"mt-1 grid grid-cols-2 gap-2\"><div><a href=\"#\" class=\"\r\n                                            w-full\r\n                                            inline-flex\r\n                                            justify-center\r\n                                            py-2\r\n                                            px-4\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            bg-white\r\n                                            text-sm\r\n                                            font-medium\r\n                                            text-gray-500\r\n                                            hover:bg-gray-50\r\n                                        \"><span class=\"sr-only\">Sign in with Facebook</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M20 10c0-5.523-4.477-10-10-10S0 4.477 0 10c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V10h2.54V7.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V10h2.773l-.443 2.89h-2.33v6.988C16.343 19.128 20 14.991 20 10z\" clip-rule=\"evenodd\"></path></svg></a></div><div><a href=\"#\" class=\"\r\n                                            w-full\r\n                                            inline-flex\r\n                                            justify-center\r\n                                            py-2\r\n                                            px-4\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            bg-white\r\n                                            text-sm\r\n                                            font-medium\r\n                                            text-gray-500\r\n                                            hover:bg-gray-50\r\n                                        \"><span class=\"sr-only\">Sign in with Twitter</span><svg class=\"w-5 h-5\" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path d=\"M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84\"></path></svg></a></div></div></div><div class=\"mt-6 relative\"><div class=\"absolute inset-0 flex items-center\" aria-hidden=\"true\"><div class=\"w-full border-t border-gray-300\"></div></div><div class=\"relative flex justify-center text-sm\"><span class=\"px-2 bg-white text-gray-500\"> Or continue with </span></div></div></div>", 1);
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><div><p class=\"text-sm font-medium text-gray-700\"> Register with </p><div class=\"mt-1 grid grid-cols-2 gap-2\"><div><a href=\"#\" class=\"\r\n                                            w-full\r\n                                            inline-flex\r\n                                            justify-center\r\n                                            py-2\r\n                                            px-4\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            bg-white\r\n                                            text-sm\r\n                                            font-medium\r\n                                            text-gray-500\r\n                                            hover:bg-gray-50\r\n                                            transition-all\r\n                                            ease-in-out\r\n                                        \"><span class=\"sr-only\">Sign in with Facebook</span><svg class=\"\r\n                                                w-5\r\n                                                h-5\r\n                                                hover:fill-fb-main\r\n                                                transition-all\r\n                                                ease-in-out\r\n                                            \" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M20 10c0-5.523-4.477-10-10-10S0 4.477 0 10c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V10h2.54V7.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V10h2.773l-.443 2.89h-2.33v6.988C16.343 19.128 20 14.991 20 10z\" clip-rule=\"evenodd\"></path></svg></a></div><div><a href=\"#\" class=\"\r\n                                            w-full\r\n                                            inline-flex\r\n                                            justify-center\r\n                                            py-2\r\n                                            px-4\r\n                                            border border-gray-300\r\n                                            rounded-md\r\n                                            shadow-sm\r\n                                            bg-white\r\n                                            text-sm\r\n                                            font-medium\r\n                                            text-gray-500\r\n                                            hover:bg-gray-50\r\n                                            transition-all\r\n                                            ease-in-out\r\n                                        \"><span class=\"sr-only\">Sign in with Twitter</span><svg class=\"\r\n                                                w-5\r\n                                                h-5\r\n                                                hover:fill-tw-main\r\n                                                transition-all\r\n                                                ease-in-out\r\n                                            \" aria-hidden=\"true\" fill=\"currentColor\" viewBox=\"0 0 20 20\"><path d=\"M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84\"></path></svg></a></div></div></div><div class=\"mt-6 relative\"><div class=\"absolute inset-0 flex items-center\" aria-hidden=\"true\"><div class=\"w-full border-t border-gray-300\"></div></div><div class=\"relative flex justify-center text-sm\"><span class=\"px-2 bg-white text-gray-500\"> Or continue with </span></div></div></div>", 1);
 
 var _hoisted_11 = {
   "class": "mt-6"
